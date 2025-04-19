@@ -1,3 +1,3 @@
-# Security-Policies-with-Windows-and-Linux
+# Security Policies with Windows and Linux
 
 In Progress...
